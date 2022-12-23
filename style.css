@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+}
+.ermi{
+    font-family: 'Lobster', cursive;
+}
+.tab{
+   
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.intro{
+    font-family: 'Caveat', cursive;
+   
+}
+.dev{
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+}
+.home{
+    font-size: 20px;
+    margin-left: 0px;
+    position: relative;
+    padding-left: 60px;
+    font-family: 'Courgette', cursive;
+}
+.tabb{
+   
+}
+.txtt{
+    margin-top: 20px;
+    font-family: 'Prata', serif;
+}
+.er{
+    font-family: 'Lobster', cursive;
+}
+.proj{
+    font-size: 20px;
+
+}
+.als{
+    margin-top: 50px;
+    font-family: 'Prata', serif;
+}
+.txt{
+
+    color: white;
+    font-family: 'Caveat', cursive;
+    padding: 50px;
+    margin-left: 0px;
+    margin-top: 100px;
+    text-align: center;
+}  
+#section1{
+    background-color: #1d1e22;
+    height: 600px;
+
+}
+#section2{
+    background-color: #4f5f76;
+    height: 700px;
+}
+#section3{
+    background-color: rgb(35, 35, 36);
+    height: 650px;
+   
+
+}
